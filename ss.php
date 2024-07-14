@@ -1,3 +1,3 @@
 <?php
-echo 'Salom'
+echo 'Sal'
 ?>
